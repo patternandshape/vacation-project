@@ -19,8 +19,6 @@ This is a webpage where a user can answer a few questions about themselves and t
 * BDD
 * Git
 
-####Vacation Destination project can be viewed at http://patternandshape.github.io
-
 ##### License
 
 *This software is licensed under the MIT license.*
