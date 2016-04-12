@@ -1,6 +1,6 @@
 # Vacation Destination Page
 
-January 22, 2016
+January 15, 2016
 
 ##### By Molly Curtin
 
