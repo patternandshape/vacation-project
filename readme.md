@@ -1,6 +1,6 @@
 # Vacation Destination Page
 
-January 15, 2016
+January 22, 2016
 
 ##### By Molly Curtin
 
@@ -18,7 +18,7 @@ This is a webpage where a user can answer a few questions about themselves and t
 * Chai
 * BDD
 * Git
-* 
+
 ####Vacation Destination project can be viewed at http://patternandshape.github.io
 
 ##### License
