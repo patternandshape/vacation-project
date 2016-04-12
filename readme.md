@@ -1,26 +1,28 @@
 # Vacation Destination Page
 
-#### This is a webpage where a user can answer a few questions about themselves and the site will return a vacation destination suggestion based on their answers.
-#### January 15, 2016.
+January 15, 2016
 
-#### By Molly Curtin
+##### By Molly Curtin
 
-## Description
-This webpage will help you choose your next vacation destination.
+### Description
 
-#### Technology used:
-* Atom
-* Terminal
+This is a webpage where a user can answer a few questions about themselves and the site will return a vacation destination suggestion based on their answers.
+
+##### Technologies Used
+
 * HTML
 * CSS
-* Javascript
+* JavaScript
 * jQuery
-* Bootstrap
-* DOM manipulation of elements
-
+* Mocha
+* Chai
+* BDD
+* Git
+* 
 ####Vacation Destination project can be viewed at http://patternandshape.github.io
 
+##### License
 
+*This software is licensed under the MIT license.*
 
-#### License:
-&copy; 2016 Molly Curtin
+&copy;2016 **Molly Curtin**
